@@ -1,5 +1,12 @@
 primer archivo participante B
+<<<<<<< HEAD
 
 ---
 modificaciones del participante b
 ---
+=======
+Este es un cambio del participante A 
+La Matrix 
+
+Dale a tu cuerpo alegria Macarena 
+>>>>>>> refs/remotes/origin/main
