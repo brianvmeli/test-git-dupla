@@ -1,1 +1,5 @@
 primer archivo participante B
+
+---
+modificaciones del participante b
+---
